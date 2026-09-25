@@ -90,16 +90,12 @@ The application then uses the trained Linear Regression model to estimate the me
 ## Screenshots
 
 ### Application Interface
+<img width="956" height="476" alt="q2" src="https://github.com/user-attachments/assets/6bb583c8-76ec-405d-921c-2ffa6ad896c6" />
 
-Add your application screenshot here.
 
 ### Prediction Result
 
-Add your prediction screenshot here.
-
-### Actual vs Predicted
-
-Add your actual vs predicted screenshot here.
+<img width="951" height="442" alt="t2" src="https://github.com/user-attachments/assets/fd71df90-8b6d-42ce-b5a3-fa5ddd13258c" />
 
 ## Limitations
 
